@@ -70,15 +70,18 @@ a:visited { color: #a0a; }
 
 .title {
   display: inline-block;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
 .title a {
   color: #a00;
+  border-bottom: 3px solid #fff;
+  border-bottom-color: #a00;
 }
 
 .title a:hover {
   color: #000;
+  border-bottom-color: #000;
 }
 
 .header a.extra {
