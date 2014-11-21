@@ -94,6 +94,15 @@ a:visited { color: #a0a; }
   color: #aaa;
 }
 
+.site li p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+.site li {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
 .footer {
   font-size: 80%;
   color: #666;
